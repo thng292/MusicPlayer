@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="more">More</string>
+    <string name="unknown">\"Unknown</string>
+</resources>
